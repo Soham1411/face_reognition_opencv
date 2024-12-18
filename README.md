@@ -69,7 +69,7 @@ This project demonstrates two functionalities:
 ## File Structure
 
 ```
-face_recognition_and_detection/
+face_recognition_codes and face_detection_codes/
 │
 ├── haar_face.xml                 # Haar Cascade Classifier file
 ├── face_detect1.py               # Real-time face detection script
