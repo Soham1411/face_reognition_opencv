@@ -1,4 +1,5 @@
 ![Face Recognition Project](https://drive.google.com/uc?export=view&id=1INPzSu1Rq-HqLBIxw7fFllX4x9rTe6iS)
+
 # 🌟 Face Recognition and Detection Project using OpenCV
 
 This project demonstrates two exciting functionalities:
