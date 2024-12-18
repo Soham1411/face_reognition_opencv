@@ -1,3 +1,5 @@
+![Face Recognition Project](https://files.oaiusercontent.com/file-AkjhCgXFkeJ4SGwJDhoD8D?se=2024-12-18T13%3A17%3A17Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da1a06542-8226-4d3f-acb8-ad2359d5b961.webp&sig=799uQpvDQ2WNKew2e4QoloBJ5RaPDokubp0bi09mdsQ%3D)
+
 # 🌟 Face Recognition and Detection Project using OpenCV
 
 This project demonstrates two exciting functionalities:
